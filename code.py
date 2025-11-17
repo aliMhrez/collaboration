@@ -2,7 +2,7 @@ def dosomething():
     print("I'm doing something")
 
     
-def saywelcome():
+def saywelcome(name):
     print("welcome")
 
     
