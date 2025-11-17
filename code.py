@@ -2,5 +2,5 @@ def dosomething():
     print("I'm doing something")
     
     
-def doanotherthing():
+def doanotherthing(name):
     print("hello world")
